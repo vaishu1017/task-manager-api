@@ -11,7 +11,7 @@ It allows users to create, view, update, and delete tasks.
  Setup Instructions
 
 1. Clone the repository:
-   git clone <your-repo-link>
+   git clone <https://github.com/vaishu1017/task-manager-api>
 
 2. Navigate to project folder:
    cd task-manager
